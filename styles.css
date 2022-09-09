@@ -1,3 +1,48 @@
 html{
+    display: flex;
+    justify-content: center;
+
     background-color: rgb(199,43,80);
+
+    text-align: center;
+    vertical-align: middle;
+
+    color: snow;
+    
+}
+a:link {
+    color: snow;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.header{
+
+    font-size: 20px;
+    
+}
+
+.months{
+
+    margin-top: 50px;
+
+
 }

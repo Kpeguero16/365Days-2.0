@@ -51,11 +51,14 @@ a:active {
 
 
 }
-.border{
+/* .border{
+
+    margin-top: 5px;
+
     border-style: solid;
-    border-width: 2;
-    border-color: green;
-}
+    border-width: 1;
+    border-color: snow;
+} */
 
 .essay{
     width: 500px;
